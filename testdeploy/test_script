@@ -1,0 +1,1 @@
+grep -qs "${ACTION_PREFIX}" /tmp/${ACTION_PREFIX} && echo 0 || echo 1
