@@ -1,0 +1,2 @@
+echo "$(hostname) - $(date)"
+echo "$ACTION_PREFIX" > /tmp/${ACTION_PREFIX}
